@@ -38,7 +38,7 @@ Used the Hash Calculator to extract the hash from a protected PDF and the Passwo
 - John the Ripper
 - Johnny GUI
 - Password recovery concepts
-- Understanding dictionary-based attacks
+- Understanding password recovery techniques
 - Practical security testing
 
 ## Key Takeaway
